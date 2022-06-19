@@ -512,12 +512,11 @@ const _mockData = [
     title: "Kimi no Tonari de Koishiteru! ~The Respective Happiness~",
     url: "Jn4RcVdfNhE",
   },
-  { title: "Grisaia no Kajitsu -LE FRUIT DE LA GRISAIA-", url: "mm0vyVNIXAA" },
+  { title: "Grisaia no Kajitsu (1)", url: "mm0vyVNIXAA" },
   {
-    title: "Grisaia no Meikyuu -LE LABYRINTHE DE LA GRISAIA-",
-    url: "MWyWy94QA-E",
+    title: "Grisaia no Meikyuu (2)", url: "MWyWy94QA-E",
   },
-  { title: "Grisaia no Rakuen -LE EDEN DE LA GRISAIA-", url: "xu9N0rtV4lc" },
+  { title: "Grisaia no Rakuen (3)", url: "xu9N0rtV4lc" },
   { title: "PRIMAL×HEARTS2", url: "TWag87slcrk" },
   { title: "Golden Hour", url: "wDkPac9qc3I" },
   {
@@ -585,15 +584,15 @@ const _mockData = [
   },
   { title: "Prism ◇ Recollection!", url: "VrNThSUd_RM" },
   {
-    title: "Tokeijikake no Ley Line -Asagiri ni Chiru Hana-",
+    title: "Tokeijikake no Ley Line (3)",
     url: "7U-lFSOlDiw",
   },
   {
-    title: "Tokeijikake no Ley Line -Zan'ei no Yoru ga Akeru Toki-",
+    title: "Tokeijikake no Ley Line (2)",
     url: "ciZvqfBCjEU",
   },
   {
-    title: "Tokeijikake no Ley Line -Tasogaredoki no Kyoukaisen-",
+    title: "Tokeijikake no Ley Line (1)",
     url: "qKd6tRo72ps",
   },
   { title: "Konata yori Kanata made", url: "QE-gDvdjcHs" },
@@ -623,7 +622,7 @@ const _mockData = [
   { title: "Majo Koi Nikki", url: "LRP6paRRSco" },
   { title: "Majo Koi Nikki", url: "-RgTxNi8He0" },
   { title: "Majo Koi Nikki", url: "HbXvVG2IFDA" },
-  { title: "Majo Koi Nikki", url: "lO54loCtXkM" },
+  { title: "Gensou no idea", url: "Ccf4q664Cd8" },
   { title: "Mayoeru Futari to Sekai no Subete", url: "L_vBR1ShQow" },
   { title: "Koisuru Shimai no Sextet", url: "2lpIcRnBelM" },
   { title: "Koi Suru Doll to Omoi no Kiseki", url: "jm-1p0JkkAI" },
